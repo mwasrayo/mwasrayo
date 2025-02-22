@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]!
+# Hello, I'm Ryan Mwangi
 
 Welcome to my GitHub profile! I'm just starting out in data science and Python programming. Here's a bit about me:
 
@@ -16,7 +16,6 @@ I'm currently learning and using:
 - **Programming Languages**: Python
 
 
-## Contact Me
 
 
 
