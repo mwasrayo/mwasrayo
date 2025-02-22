@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm [Your Name]!
 
-<!--
-**mwasrayo/mwasrayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm just starting out in data science and Python programming. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **Learning Data Science**: I'm excited to explore data and learn how to analyze it.
+- 🐍 **Python Programming**: I enjoy coding in Python and solving problems with it.
+
+
+
+## Tools and Technologies
+
+I'm currently learning and using:
+
+- **Programming Languages**: Python
+
+
+## Contact Me
+
+
+
+---
+
+
